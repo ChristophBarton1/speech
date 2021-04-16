@@ -2,21 +2,21 @@ const btn = document.querySelector('.talk');
 const content = document.querySelector('.content');
 
 
-const greetings = [ 'Du bist Christoph Barton und mein Erschaffer und gleichzeitig das größte Genie unserer Zeit. Selbst Tony Stark steht wie ein Trottel neben diesen von Gott geschaffenen Adonis aus',];
-const greetings2 = [ 'Deine Mutter ist Brigitte Barton und sie ist die beste Mutter auf der ganzen weiten Welt. Du kannst froh sein das du sie hast.',
+const greetings = [ '',];
+const greetings2 = [ '',
 ];
 
-const weather = ['Das Wetter ist draußen schön und Sonnig und du solltest mal raus gehen. Du siehst aus wie ein labriger weißer Toast.'];
+const weather = ['Lorem ipsum'];
 
-const Lena = ['Lena ist ein wunderschönes tolles Mädchen und ich kann verstehen das du sie liebst sie ist wirklich toll.'];
-const Lena2 = ['Na toll jetzt werde ich aber Eifersüchtig. Du bist ja schließlich sehr gefragt in der Frauenwelt schöner Mann'];
-const Clash = ['Na klaro du bist schließlich der beste Supporter auf der Welt und niemand kann dir das Wasser reichen'];
-const Essen = ['Schnitzel mit Kartoffelsalat'];
-const Schön = ['Du bist der schönste. Alle Frauen stehen auf dich und um ehrlich zu sein hat mein Maschinenherz schon länger was für dich übrig'];
-const Cool = ['Du bist der coolste'];
-const Weg = ['Das wirst du bereuen'];
-const Oma = ['Deine Oma ist Hilda Barton. Richte ihr bitte eine schöne Grüße von mir aus.'];
-const Cat = ['Deine Katze ist der Maxi und er sollte dich mal in der Nacht schlafen lassen. Ansonsten würde ich empfehlen in einschläfern zu lassen.'];
+const Lena = [''];
+const Lena2 = [''];
+const Clash = [''];
+const Essen = [''];
+const Schön = [''];
+const Cool = [''];
+const Weg = [''];
+const Oma = [''];
+const Cat = [''];
 
 
 
